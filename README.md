@@ -8,9 +8,9 @@ Dev C++ Theme based on Monokai's Spectrum theme.
 
 1. Download [Monokai Spectrum.syntax](https://github.com/mertgulerx/devcpp-monokai-theme/blob/main/Monokai%20Spectrum.syntax) and move it to `C:\Users\<username>\AppData\Roaming\Dev-Cpp`.
 2. Go to Dev-C++ _Tools › Editor Options › Syntax › Colors › Select theme_ and select _Monokai Spectrum_.
-3. <img src="https://github.com/mertgulerx/devcpp-monokai-theme/blob/main/screenshot/Screenshot%202025-03-10%20131359.png" width="200">
-4. <img src="https://github.com/mertgulerx/devcpp-monokai-theme/blob/main/screenshot/Screenshot%202025-03-10%20131411.png" width="400">
-5. Then go to _General › Highlight Current Line › Custom_ and create custom color with _43 43 43_ RGB.
+ <img src="https://github.com/mertgulerx/devcpp-monokai-theme/blob/main/screenshot/Screenshot%202025-03-10%20131359.png" width="200">
+ <img src="https://github.com/mertgulerx/devcpp-monokai-theme/blob/main/screenshot/Screenshot%202025-03-10%20131411.png" width="400">
+3. Then go to _General › Highlight Current Line › Custom_ and create custom color with _43 43 43_ RGB.
 
 <img src="https://github.com/mertgulerx/devcpp-monokai-theme/blob/main/screenshot/Screenshot%202025-03-10%20131439.png" width="400">
 
