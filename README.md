@@ -21,4 +21,4 @@ Dev C++ Theme based on Monokai's Spectrum theme.
 <img src="https://github.com/mertgulerx/devcpp-monokai-theme/blob/main/screenshot/Screenshot%202025-03-10%20131418.png" width="400">
 
 
-Huge credits to @daomtthuan
++Huge credits to [@daomtthuan](https://github.com/daomtthuan)
